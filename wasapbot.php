@@ -17,7 +17,7 @@
   // --------------------------------------------------------------------------------------------------------------- //
   
   error_reporting(E_ERROR | E_WARNING | E_PARSE);
-  date_default_timezone_set('Asia/Jakarta');
+  date_default_timezone_set('Russia/Moscow');
   $debug = false;
 
   require_once 'whatsapp/src/whatsprot.class.php';
