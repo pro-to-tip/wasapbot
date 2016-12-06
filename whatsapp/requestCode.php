@@ -3,7 +3,7 @@
 require_once('src/Registration.php');
 
 $debug = false;
-$username = "";   
+$username = "79670419666";   
 
 if(empty($username)){ 
 echo "Mobile Number can't be Empty"; 
