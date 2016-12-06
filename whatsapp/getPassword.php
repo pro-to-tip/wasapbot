@@ -4,7 +4,7 @@ error_reporting(0);
 require_once('src/Registration.php');
 
 $debug = false;
-$username = "";   
+$username = "79670419666";   
 $code = "";
 
 if(empty($username)){ 
