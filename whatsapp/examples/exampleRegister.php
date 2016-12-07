@@ -12,7 +12,7 @@ require_once '../src/Registration.php';
  * Config data.
  */
 $debug = true;
-$username = '34666554433';   // Telephone number including the country code without '+' or '00'.
+$username = '79030112621';   // Telephone number including the country code without '+' or '00'.
 
 // Create an instance of Registration.
 $w = new Registration($username, $debug);
