@@ -8,8 +8,8 @@
   require_once 'whatsapp/src/whatsprot.class.php';
 
   $nickname = "wasapbot";                          // bot nickname
-  $username = "62xxxxxxxxxxx";                     // bot number
-  $password = "C34G7Cauuw8lbxxxxxxxxxxxxxxxx";     // password
+  $username = "79663346700";                     // bot number
+  $password = "17457256474A4E60139145F0192D9853";     // password
 
   // konek ------------------------------------------------------------------------------------------------------------
   echo "+ Login sebagai $nickname ($username)\n+\n";
