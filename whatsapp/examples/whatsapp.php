@@ -59,7 +59,7 @@ $config['webpassword'] = 'MakeUpPassword';
 $config['YOURNAME'] = [
     'fromNumber'    => '79670419666',
     'nick'          => 'rgpmp',
-    'waPassword'    => 'SwimxCjZQxFz6gVanO1PXvMKjKs=',
+    'waPassword'    => '58C87B4782C7E187F58B47797B7DBCF8',
     'email'         => 'testemail@gmail.com',
     'emailPassword' => 'gmailpassword',
 ];
