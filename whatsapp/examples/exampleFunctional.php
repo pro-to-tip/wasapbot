@@ -13,7 +13,7 @@ date_default_timezone_set('Europe/Madrid');
 $username = '79670419666';                      // Telephone number including the country code without '+' or '00'.
 $password = 'SwimxCjZQxFz6gVanO1PXvMKjKs=';     // Use registerTool.php or exampleRegister.php to obtain your password
 $nickname = 'rgpmp';                          // This is the username (or nickname) displayed by WhatsApp clients.
-$target = "79670419666";                   // Destination telephone number including the country code without '+' or '00'.
+$target = "79672235920";                   // Destination telephone number including the country code without '+' or '00'.
 $debug = false;                                           // Set this to true, to see debug mode.
 ///////////////////////////////////////////////////////////
 
