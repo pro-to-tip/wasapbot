@@ -23,7 +23,7 @@
   require_once 'whatsapp/src/whatsprot.class.php';
 
   // bot configuration 
-  $nickname = "nickname";                          // bot's nickname
+  $nickname = "rgpmp";                          // bot's nickname
   $username = "79670419666";                      // bot's number
   $password = "SwimxCjZQxFz6gVanO1PXvMKjKs=";    // bot's spassword
   // get the password using registerTool.php
