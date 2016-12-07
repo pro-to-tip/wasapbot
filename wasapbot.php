@@ -25,7 +25,7 @@
   // bot configuration 
   $nickname = "";                          // bot's nickname
   $username = "79096679572";                      // bot's number
-  $password = "kIUksreiR9zny7olWXf1C2L9my0=";    // bot's spassword
+  $password = "02846BECC0E08EF3DE3D018242069461";    // bot's spassword
   // get the password using registerTool.php
   // --> whatsapp/examples/registerTool.php
 
